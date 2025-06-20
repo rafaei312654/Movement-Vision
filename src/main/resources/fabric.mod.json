@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "movementvision",
-	"version": "${version}",
+	"version": "1.2.0+1.21",
 	"name": "Movement Vision",
 	"description": "What if you could only see movement?",
 	"authors": [
@@ -30,6 +30,6 @@
 		"fabricloader": ">=0.11.3",
 		"fabric": "*",
 		"satin": ">=1.7.2",
-		"cloth-config": "*"
+		"cloth-config": ">=x.x.x"
 	}
 }
